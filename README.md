@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r-yaswanth-reddy
+- 👋 Hi, I’m R.Yaswanth Reddy
 - 👀 I’m interested in secirity side,web development.
 - 🌱 I’m currently learning network secirity,HTML,CSS,JS.
 - 💞️ I’m looking to collaborate on ...
